@@ -1,0 +1,38 @@
+<html>
+    <head> 
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UACompatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>
+            Portifólio Pessoal
+        </title>
+    </head>
+
+    <style>
+        h1{
+        color: beige;
+        background-color: gray;
+        position: relative;
+        top: 1;
+        } 
+        </style> 
+
+    <table border="0">
+        <tr>
+            
+            <td>  </td>
+            <td> 
+                <h1>Olá visitante, seja bem vindo ao meu Portifólio Pessoal </h1> 
+                <h2> Clique abaixo na opção desejada : </h2>
+                <ul>
+                    <li> Quem sou</li>
+                    <li> Formação</li>
+                    <li> CV Pessoal</li>
+                    <li> Contato</li>
+
+
+                </ul>
+            </td>
+            <td>  </td>
+        </tr>
+</html>
